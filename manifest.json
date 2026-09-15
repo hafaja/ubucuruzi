@@ -1,0 +1,25 @@
+{
+  "name": "Betty",
+  "short_name": "Betty",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f1a16",
+  "theme_color": "#e6b450",
+  "icons": [
+    {
+      "src": "betty_icon_96px.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "betty_icon_144px.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "betty_icon_192px.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
